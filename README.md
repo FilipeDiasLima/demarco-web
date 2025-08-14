@@ -4,7 +4,7 @@ Sistema de Gestão de Atestados Médicos - Interface Frontend
 
 ## 📋 Sobre o Projeto
 
-O DeMarco Frontend é uma aplicação web feita em processo para o consumo da api local de atestados médicos.
+Aplicação web feita em processo para o consumo da api local de atestados médicos.
 
 ### ✨ Funcionalidades Principais
 
@@ -56,8 +56,8 @@ O DeMarco Frontend é uma aplicação web feita em processo para o consumo da ap
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/demarco-frontend.git
-cd demarco-frontend
+git clone https://github.com/FilipeDiasLima/demarco-web.git
+cd demarco-web
 ```
 
 ### 2. Instale as dependências
